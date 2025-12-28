@@ -1,1 +1,3 @@
 New implementation done by Arun
+CheckBox.click()
+Button.click()
