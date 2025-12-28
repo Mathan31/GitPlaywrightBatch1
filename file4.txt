@@ -1,1 +1,2 @@
 New Implementation completed by Julie
+Auto waiting is implemented in Playwright
