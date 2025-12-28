@@ -1,3 +1,4 @@
 New implementation done by Arun
+Adding Implicit wait for all the actions performing using selenium
 CheckBox.click()
 Button.click()
